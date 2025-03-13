@@ -8,3 +8,4 @@ AI-Powered Resume Screening and Ranking System This project is an AI-driven resu
 🎯 How It Works 1️⃣ Upload resumes 📄 2️⃣ Extract & preprocess data 🔍 3️⃣ Compare with job descriptions 📊 4️⃣ Rank candidates using ML models 🚀 5️⃣ Export ranked list for recruiters 🎯
 
 output:
+![Image](https://github.com/user-attachments/assets/10bb50a6-700e-4781-9248-d0b26925fe9e)
